@@ -1,0 +1,43 @@
+{
+  "name": "lr",
+  "version-string": "1.0.0",
+  "builtin-baseline": "f5398d978f8843c03ed466c7fdb8a54167cd5f51",
+  "dependencies": [
+    {
+      "name": "glfw3",
+      "version>=": "3.4#1"
+    },
+    {
+      "name": "spdlog",
+      "version>=": "1.17.0"
+    },
+    {
+      "name": "fmt",
+      "version>=": "12.1.0"
+    },
+    {
+      "name": "vulkan-memory-allocator",
+      "version>=": "3.3.0"
+    },
+    {
+      "name": "directx-dxc",
+      "version>=": "2025-10-10"
+    },
+    {
+      "name": "nlohmann-json",
+      "version>=": "3.12.0#2"
+    },
+    {
+      "name": "spirv-reflect",
+      "version>=": "1.4.335.0"
+    },
+    {
+      "name": "spirv-headers",
+      "version>=": "1.4.335.0"
+    },
+    {
+      "name": "glslang",
+      "version>=": "16.1.0"
+    }
+  ]
+}

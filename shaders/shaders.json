@@ -1,0 +1,22 @@
+[
+  {
+    "path": "quad.hlsl",
+    "entryPoint": "VSMain",
+    "stage": "Vertex"
+  },
+  {
+      "path": "sponge.hlsl",
+      "entryPoint": "PSMain",
+      "stage": "Pixel"
+  },
+  {
+      "path": "tetrahedron.hlsl",
+      "entryPoint": "PSMain",
+      "stage": "Pixel"
+  },
+  {
+        "path": "mandelbox.glsl",
+        "entryPoint": "PSMain",
+        "stage": "Pixel"
+    }
+]
